@@ -1,6 +1,3 @@
-# Hi there 👋
-I'm rioluvy!
-
 ## 🏅 BOJ Rank
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=swyjs"/>
 
