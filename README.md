@@ -24,6 +24,7 @@ I love solving algorithm problems and working with C++ and Python. Here's a bit 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rioluvy&theme=radical)
 
 ## 🖋 Recent Blog Posts
+codio.tistory.com
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -39,4 +40,5 @@ I love solving algorithm problems and working with C++ and Python. Here's a bit 
 Check out my repository for algorithm solutions:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rioluvy&repo=algorithm-solutions&theme=radical)](https://github.com/rioluvy/algorithm-solutions)-->
 
+## 🏅 Baekjoon
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=swyjs"/>
