@@ -10,6 +10,10 @@ I love solving algorithm problems and working with C++ and Python. Here's a bit 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I solve at least one algorithm problem every day!
 
+
+## 🏅 BOJ Rank
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=swyjs"/>
+
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
@@ -37,8 +41,6 @@ Check out my repository for algorithm solutions:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rioluvy&repo=baekjoon&theme=radical)](https://github.com/rioluvy/baekjoon)
 
-## 🏅 BOJ Rank
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=swyjs"/>
 
 ### Contact with me
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://codio.tistory.com/)](https://codio.tistory.com/)
