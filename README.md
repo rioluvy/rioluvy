@@ -5,7 +5,7 @@ I love solving algorithm problems and working with C++ and Python. Here's a bit 
 
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on open-source projects related to algorithm optimization.
-- 💬 Ask me about algorithms, C++, and Python.
+- 💬 Tell me about algorithms, C++, and Python.
 - 📫 How to reach me: [Email](mailto:rioluvy@gmail.com)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I solve at least one algorithm problem every day!
