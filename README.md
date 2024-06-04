@@ -17,7 +17,7 @@ I love solving algorithm problems and working with C++ and Python. Here's a bit 
 <!--## 📈 GitHub Stats
 ![rioluvy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rioluvy&show_icons=true&theme=radical)-->
 
-## 🏆 Top Languages
+## 🏆 Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rioluvy&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
