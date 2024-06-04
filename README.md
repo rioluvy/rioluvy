@@ -28,17 +28,18 @@ codio.tistory.com
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!--## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](your-twitter-url)-->
-
 <!--## 🏅 Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rioluvy&theme=radical)-->
 
-<!--## 🎯 Projects
+## 🎯 Projects
 ### Algorithm Solutions
 Check out my repository for algorithm solutions:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rioluvy&repo=algorithm-solutions&theme=radical)](https://github.com/rioluvy/algorithm-solutions)-->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rioluvy&repo=baekjoon&theme=radical)](https://github.com/rioluvy/baekjoon)
 
-## 🏅 Baekjoon
+## 🏅 BOJ Rank
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=swyjs"/>
+
+### Contact with me
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://codio.tistory.com/)](https://codio.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rioluvy@gmail.com)](mailto:rioluvy@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jisung021110@naver.com)](mailto:jisung021110@naver.com)
