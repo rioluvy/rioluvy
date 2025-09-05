@@ -4,6 +4,7 @@
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 <!--## 📈 GitHub Stats
 ![rioluvy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rioluvy&show_icons=true&theme=radical)-->
