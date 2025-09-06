@@ -29,6 +29,10 @@ Check out my repository for algorithm solutions:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rioluvy&repo=baekjoon&theme=radical)](https://github.com/rioluvy/baekjoon)
 
+### Data analysis
+Check out my repository for Data analysis solutions:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rioluvy&repo=Data-analysis-and-visualization&theme=radical)](https://github.com/rioluvy/Data-analysis-and-visualization)
 
 ### Contact with me
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://codio.tistory.com/)](https://codio.tistory.com/)
